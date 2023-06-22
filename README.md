@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kainat Naeem</h1>
 <h3 align="center">I am coding enthusiast.</h3>
-![Uploading giphy.gif…]()
+![giphy](https://github.com/kainatnaeem/kainatnaeem/assets/54583829/eb878bce-bb04-4d34-9708-950d90f49af1)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainatnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="kainatnaeem" /> </p>
 
