@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainatnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="kainatnaeem" /> </p>
 
 
-- 🔭 I’m currently working on **Company Projects**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Full Stack Flutter Development**
+- 🌱 I’m currently focusing **Bloc & Cubit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kainatnaeem](https://github.com/kainatnaeem)
 
