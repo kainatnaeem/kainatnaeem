@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainatnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="kainatnaeem" /> </p>
 
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Flutter Full Stack Projects** and teching **Computer Science**
 
 - 🌱 I’m currently focusing **Bloc & Cubit**
 
