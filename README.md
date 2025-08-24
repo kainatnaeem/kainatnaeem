@@ -11,7 +11,7 @@
 - 🌱 I’m currently focusing **Bloc & Cubit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kainatnaeem](https://github.com/kainatnaeem)
-
+- 📫 To know more about me  https://linktr.ee/kainatnaeem
 - 💬 Ask me about **Flutter, WordPress, Social Media Marketing**
 
 - 📫 How to reach me **flutterbyktech@gmail.com**
