@@ -15,7 +15,7 @@
 
 - 🚀 I learn by building practical projects and exploring new technologies
 
-- 👨‍💻 All of my projects are available at "https://github.com/kainatnaeem" (https://github.com/kainatnaeem)
+- 👨‍💻 All of my projects are available at (https://github.com/kainatnaeem)
 
 - 🔗 To know more about me: "Linktree" (https://linktr.ee/kainatnaeem)
 
